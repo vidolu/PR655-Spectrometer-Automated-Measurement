@@ -1,6 +1,6 @@
 # Automated Spectral Measurement for the PR655 Spectrometer 
 ## Background
-This code was developed to script spectral measurements from the PR655 Spectrometer over serial USB communication using a Raspberry Pi 4b for a personal project. Each measurement observed a unique filter selected by a stepper motor and measured at 1440 positions.
+This code was developed to script spectral measurements from the PR655 Spectrometer over serial USB communication using a Raspberry Pi 4b for a personal use. Each measurement observed a unique filter selected by a stepper motor and measured at 1440 positions.
 
 Here is a link to the project documentation:
 
